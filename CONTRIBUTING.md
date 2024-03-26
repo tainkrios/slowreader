@@ -60,7 +60,7 @@ You can ask any question to the maintainer in Telegram: **[`@sitnik`](https://t.
    pnpm test
    ```
 
-   Only run tests if the project path does not contain `non-Latin` characters.
+   If you have strange error, check that all folders in the path to the project use **only Latin symbols**.
 
 ## Run Web Client
 
